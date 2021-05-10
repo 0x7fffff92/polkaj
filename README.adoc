@@ -86,3 +86,5 @@ client.close();
 The core project code is released under Apache 2.0 license.
 
 Examples and docs are published under CC0 license + additionally Apache 2.0 for code parts in the examples.
+
+NUCOIN
